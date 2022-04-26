@@ -1,9 +1,9 @@
 package com.webrayan.structurals.adapter;
 
-public class CarAdapterImpl implements CarAdapter{
-    Car car;
+public class MovableAdapterImpl implements MovableAdapter {
+    Movable car;
 
-    public CarAdapterImpl(Car car) {
+    public MovableAdapterImpl(Movable car) {
         this.car = car;
     }
 

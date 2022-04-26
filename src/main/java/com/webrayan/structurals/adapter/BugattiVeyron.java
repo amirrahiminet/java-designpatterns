@@ -1,6 +1,6 @@
 package com.webrayan.structurals.adapter;
 
-public class BugattiVeyron implements Car{
+public class BugattiVeyron implements Movable {
 
     @Override
     public double getSpeed() {

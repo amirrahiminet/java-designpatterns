@@ -1,6 +1,6 @@
 package com.webrayan.structurals.adapter;
 
-public interface CarAdapter {
-    // returns speed in KM/H
+public interface Movable {
+    // returns speed in MPH
     double getSpeed();
 }
